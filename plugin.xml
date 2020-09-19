@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <!-- Main plugin class -->
+    <class>org.jivesoftware.openfire.plugin.CPPIntegrationPlugin</class>
+
+    <!-- Admin console entries -->
+
+    <adminconsole>
+        <tab id="tab-server">
+            <sidebar id="sidebar-server-settings">
+                <item id="CPPSDKIntegration" name="C++ SDK Integration"
+                      url="cpp-sdk-integration-settings.jsp"
+                      description="Update C++ SDK Integration settings" />
+            </sidebar>
+        </tab>
+
+    </adminconsole>
+</plugin>

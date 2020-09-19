@@ -1,0 +1,8 @@
+net\ac\acofprotocol\Utilities.class
+org\jivesoftware\openfire\plugin\SDKConnection$1.class
+net\ac\acofprotocol\ACOFProtocol.class
+org\jivesoftware\openfire\plugin\CPPSDKIntegPlugin.class
+org\jivesoftware\openfire\plugin\InPacketListener.class
+org\jivesoftware\openfire\plugin\CPPSDKIntegPlugin$1.class
+net\ac\acofprotocol\ACOFProtocol$ACOF_PACKET_TYPES.class
+org\jivesoftware\openfire\plugin\SDKConnection.class
